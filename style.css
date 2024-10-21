@@ -34,6 +34,43 @@
     color: white;
     font-family: "roca", sans-serif;
     font-weight: 300;
+    font-style: 500p;
+    text-shadow: 2px 2px 0 #000000,
+    -1px 1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px -1px 0 #000000,
+    0px 1px 0 #000000,
+    0px -1px 0 #000000,
+    -1px 0px 0 #000000,
+    1px 0px 0 #000000,
+    2px 2px 0 #000000,
+    -2px 2px 0 #000000,
+    2px -2px 0 #000000,
+    -2px -2px 0 #000000,
+    0px 2px 0 #000000,
+    0px -2px 0 #000000,
+    -2px 0px 0 #000000,
+    2px 0px 0 #000000,
+    1px 2px 0 #000000,
+    -1px 2px 0 #000000,
+    1px -2px 0 #000000,
+    -1px -2px 0 #000000,
+    2px 1px 0 #000000,
+    -2px 1px 0 #000000,
+    2px -1px 0 #000000,
+    -2px -1px 0 #000000;
+    background-image: url(/IMGS/LHI.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vw;
+
+}
+
+.card {
+    color: white;
+    font-family: "roca", sans-serif;
+    font-weight: 500;
     font-style: normal;
     text-shadow: 2px 2px 0 #000000,
     -1px 1px 0 #000000,
@@ -61,33 +98,7 @@
     -2px -1px 0 #000000;
 }
 
-.card {
-    color: white;
-    font-family: "roca", sans-serif;
-    font-weight: 300;
-    font-style: normal;
-    text-shadow: 2px 2px 0 #000000,
-    -1px 1px 0 #000000,
-    1px -1px 0 #000000,
-    -1px -1px 0 #000000,
-    0px 1px 0 #000000,
-    0px -1px 0 #000000,
-    -1px 0px 0 #000000,
-    1px 0px 0 #000000,
-    2px 2px 0 #000000,
-    -2px 2px 0 #000000,
-    2px -2px 0 #000000,
-    -2px -2px 0 #000000,
-    0px 2px 0 #000000,
-    0px -2px 0 #000000,
-    -2px 0px 0 #000000,
-    2px 0px 0 #000000,
-    1px 2px 0 #000000,
-    -1px 2px 0 #000000,
-    1px -2px 0 #000000,
-    -1px -2px 0 #000000,
-    2px 1px 0 #000000,
-    -2px 1px 0 #000000,
-    2px -1px 0 #000000,
-    -2px -1px 0 #000000;
+h1 {
+    font-size: 8vw;
 }
+
